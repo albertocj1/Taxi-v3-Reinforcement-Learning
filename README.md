@@ -33,7 +33,7 @@ The project uses the Taxi-v3 environment from the Gymnasium library.
 ## 🎥 Project Demo
 
 <p align="center">
-  <img src="demo.gif" alt="System Demo" width="700">
+  <img src="taxi.gif" alt="System Demo" width="700">
 </p>
 
 <p align="center">
