@@ -30,5 +30,13 @@ The project uses the Taxi-v3 environment from the Gymnasium library.
 - Matplotlib
 - Imageio (with ffmpeg plugin for video recording)
 
-<video src="download.mp4" controls autoplay muted></video>
+## 🎥 Project Demo
+
+<p align="center">
+  <img src="demo.gif" alt="System Demo" width="700">
+</p>
+
+<p align="center">
+  <em>This GIF demonstrates how the system processes real-time data and generates predictions efficiently.</em>
+</p>
 
