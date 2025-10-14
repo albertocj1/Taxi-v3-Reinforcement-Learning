@@ -31,3 +31,4 @@ The project uses the Taxi-v3 environment from the Gymnasium library.
 - Imageio (with ffmpeg plugin for video recording)
 
 <video src="download.mp4" controls autoplay muted></video>
+
