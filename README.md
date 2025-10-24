@@ -1,4 +1,6 @@
-# Taxi-v3-Reinforcement-Learning
+# Paper Link:
+https://drive.google.com/drive/folders/1FpW22oa6m-PZB8RqTbBRZ7zRhCJjqQ1X?usp=drive_link
+
 # Deep Q-Network (DQN) for Taxi-v3 Environment
 
 This repository contains the implementation of a Deep Q-Network (DQN) agent trained to solve the classic reinforcement learning environment, Taxi-v3, from Gymnasium.
